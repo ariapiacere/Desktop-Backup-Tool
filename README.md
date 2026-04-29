@@ -67,14 +67,6 @@ Errors
  Python 3.x
  Tkinter (usually included with Python)
  
-📁 Project Structure
-desktop-backup/
- ├── desktop_backup.py
- ├── config.json
- ├── backup_log.txt
- └── README.md
-
-
 
 Built as a personal productivity tool to keep Desktop clean and organized.
 
