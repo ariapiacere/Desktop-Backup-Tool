@@ -1,4 +1,3 @@
 @echo off
-cd /d C:\Users\User\Desktop\Auto
-python desktop_backup.py
-pause
+cd /d %~dp0
+start "" pythonw desktop_backup.py
