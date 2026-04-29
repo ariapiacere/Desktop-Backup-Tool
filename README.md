@@ -59,29 +59,20 @@ Includes:
 Files moved
 Skipped files
 Errors
+
 🧠 Requirements
-Windows 10 / 11
-Python 3.x
-Tkinter (usually included with Python)
-⚠️ Notes
-Only processes files (not folders)
-Does NOT move:
-.lnk shortcuts
-hidden/system files
-excluded or ignored types
-Files in use may be skipped
+ Windows 10 / 11
+ Python 3.x
+ Tkinter (usually included with Python)
+ 
 📁 Project Structure
 desktop-backup/
  ├── desktop_backup.py
  ├── config.json
  ├── backup_log.txt
  └── README.md
-💡 Future Improvements
-Auto-run via Task Scheduler
-Export to .exe
-Better UI themes
-Folder preview before backup
-👤 Author
+
+
 
 Built as a personal productivity tool to keep Desktop clean and organized.
 
