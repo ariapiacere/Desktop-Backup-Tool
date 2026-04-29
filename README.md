@@ -22,8 +22,11 @@ D:\04.29.26_backup\
  ├── documents\
  ├── videos\
  └── others\
+ 
 Reuses the same folder if run multiple times in one day
+
 🚀 Usage
+
 🔹 GUI Mode (default)
 python desktop_backup.py
 
@@ -33,6 +36,7 @@ Launches the graphical interface.
 python desktop_backup.py --cli
 
 Runs in terminal with interactive prompts.
+
 
 ⚙️ Configuration
 
@@ -50,9 +54,7 @@ Example:
 }
 📋 Log File
 
-Logs are saved to:
-
-backup_log.txt
+Logs are saved to: backup_log.txt
 
 Includes:
 
